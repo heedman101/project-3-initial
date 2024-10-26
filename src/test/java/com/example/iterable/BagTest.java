@@ -1,12 +1,10 @@
-package com.example.iterable;
+package test.java.com.example.iterable;
 
+import main.java.com.example.iterable.Bag;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
-import java.util.Spliterator;
 
 import static org.junit.jupiter.api.Assertions.*;
 
